@@ -1,3 +1,3 @@
 # Myfirst-Repo
 Learning Basics.
-Author - Mayur Dhanurkar.
+Author - Mayur Pradip Dhanurkar.
